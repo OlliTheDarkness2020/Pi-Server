@@ -1,0 +1,40 @@
+{
+    "os_list": [
+        {
+            "os_name": "Raspberry Pi OS (32-bit)",
+            "release_date": "2023-05-03",
+            "nominal_size": 2846,
+            "tarball": "https://downloads.raspberrypi.org/raspios_armhf/piserver.tar.xz"
+        },
+        {
+            "os_name": "Raspberry Pi OS Full (32-bit)",
+            "release_date": "2023-05-03",
+            "nominal_size": 8304,
+            "tarball": "https://downloads.raspberrypi.org/raspios_full_armhf/piserver.tar.xz"
+        },
+        {
+            "os_name": "Raspberry Pi OS Lite (32-bit)",
+            "release_date": "2023-05-03",
+            "nominal_size": 1219,
+            "tarball": "https://downloads.raspberrypi.org/raspios_lite_armhf/piserver.tar.xz"
+        },
+        {
+            "os_name": "Raspberry Pi OS (64-bit)",
+            "release_date": "2023-05-03",
+            "nominal_size": 3036,
+            "tarball": "https://downloads.raspberrypi.org/raspios_arm64/piserver.tar.xz"
+        },
+        {
+            "os_name": "Raspberry Pi OS Full (64-bit)",
+            "release_date": "2023-05-03",
+            "nominal_size": 8924,
+            "tarball": "https://downloads.raspberrypi.org/raspios_full_arm64/piserver.tar.xz"
+        },
+        {
+            "os_name": "Raspberry Pi OS Lite (64-bit)",
+            "release_date": "2023-05-03",
+            "nominal_size": 1305,
+            "tarball": "https://downloads.raspberrypi.org/raspios_lite_arm64/piserver.tar.xz"
+        }
+    ]
+}
