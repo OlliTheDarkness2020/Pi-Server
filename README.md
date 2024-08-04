@@ -21,13 +21,13 @@ sudo apt-get install binfmt-support qemu-user-static
 ### Get the source
 
 ```
-git clone --depth 1 https://github.com/raspberrypi/piserver.git
+git clone --depth 1 https://github.com/OlliTheDarkness2020/Pi-Server.git
 ```
 
 ### Build the Debian package
 
 ```
-cd piserver
+cd Pi-Server
 debuild -uc -us
 ```
 
